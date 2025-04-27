@@ -148,7 +148,7 @@ class HomePage extends StatelessWidget {
                   const ProductCard(
                     id: '1',
                     image:
-                        'https://images.unsplash.com/photo-1521572163474-6864f9cf17ab',
+                        'https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTZ8fHNoaXJ0c3xlbnwwfHwwfHx8MA%3D%3D',
                     title: 'Oxford Premium Shirt',
                     price: '\$89.99',
                     description:
@@ -157,7 +157,7 @@ class HomePage extends StatelessWidget {
                   const ProductCard(
                     id: '2',
                     image:
-                        'https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf',
+                        'https://images.unsplash.com/photo-1671438118097-479e63198629?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTA0fHxzaGlydHN8ZW58MHx8MHx8fDA%3D',
                     title: 'Noir Essential Tee',
                     price: '\$45.99',
                     description:
@@ -166,7 +166,7 @@ class HomePage extends StatelessWidget {
                   const ProductCard(
                     id: '3',
                     image:
-                        'https://images.unsplash.com/photo-1596755094514-f87e34085b2c',
+                        'https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8c2hpcnRzfGVufDB8fDB8fHww',
                     title: 'Striped Linen Shirt',
                     price: '\$72.99',
                     description:
@@ -175,7 +175,7 @@ class HomePage extends StatelessWidget {
                   const ProductCard(
                     id: '4',
                     image:
-                        'https://images.unsplash.com/photo-1603252109303-2751441dd157',
+                        'https://images.unsplash.com/photo-1621773881532-fe65715b5137?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTI4fHxzaGlydHN8ZW58MHx8MHx8fDA%3D',
                     title: 'Denim Signature Shirt',
                     price: '\$79.99',
                     description:
@@ -191,7 +191,7 @@ class HomePage extends StatelessWidget {
                   const ProductCard(
                     id: '5',
                     image:
-                        'https://images.unsplash.com/photo-1598032895397-b9472444bf93',
+                        'https://images.unsplash.com/photo-1602810320073-1230c46d89d4?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c2hpcnRzfGVufDB8fDB8fHww',
                     title: 'Minimalist Collared Shirt',
                     price: '\$69.99',
                     description:
@@ -209,7 +209,7 @@ class HomePage extends StatelessWidget {
                   const ProductCard(
                     id: '7',
                     image:
-                        'https://images.unsplash.com/photo-1578932750294-f5075e85f44a',
+                        'https://images.unsplash.com/photo-1603252109360-909baaf261c7?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nzl8fHNoaXJ0c3xlbnwwfHwwfHx8MA%3D%3D',
                     title: 'Highlands Flannel Shirt',
                     price: '\$62.99',
                     description:
@@ -218,7 +218,7 @@ class HomePage extends StatelessWidget {
                   const ProductCard(
                     id: '8',
                     image:
-                        'https://images.unsplash.com/photo-1618354691373-d851c5c3a990',
+                        'https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDR8fHNoaXJ0c3xlbnwwfHwwfHx8MA%3D%3D',
                     title: 'Vintage Wash Urban Tee',
                     price: '\$49.99',
                     description: 'Stone-washed for that perfect lived-in feel.',
